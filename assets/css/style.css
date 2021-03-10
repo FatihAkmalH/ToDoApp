@@ -80,6 +80,7 @@ body{
 .container .list{
     max-height: 250px;
     overflow-y: auto;
+    overflow-x: auto;
 }
 .container .list::-webkit-scrollbar{
     width: 0;
