@@ -83,6 +83,7 @@ body{
 .container .list{
     max-height: 250px;
     overflow-y: auto;
+    overflow-x: auto;
 }
 .container .list::-webkit-scrollbar{
     width: 0;
@@ -146,6 +147,9 @@ body{
     color: #dff9fb;
     font-size: 20px;
 }
+<<<<<<< HEAD
 .footer button.active:hover{
     background: #130f40;
 }
+=======
+>>>>>>> 9887eab92d2463803bb6956768c6fcbc47b03d01
