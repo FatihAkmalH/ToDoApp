@@ -77,6 +77,9 @@ body{
     opacity: 100%;
     pointer-events: auto;
 }
+.input-field button.active:hover{
+    background: #130f40;
+}
 .container .list{
     max-height: 250px;
     overflow-y: auto;
@@ -97,8 +100,6 @@ body{
     padding: 0 15px;
     cursor: default;
     overflow: hidden;
-    box-shadow: inset 6px 6px 6px 0 rgba(0,0,0,0.2),
-                inset -6px -6px 6px 0 rgba(255, 255, 255, 0.2);
 }
 .list li span{
     position: absolute;
@@ -144,4 +145,7 @@ body{
 .footer span{
     color: #dff9fb;
     font-size: 20px;
+}
+.footer button.active:hover{
+    background: #130f40;
 }
