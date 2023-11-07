@@ -144,6 +144,9 @@ body{
     opacity: 100%;
     pointer-events: auto;
 }
+.footer button.active:hover{
+    background: #bf7c3a;
+}
 .footer span{
     color: #1d3557;
     font-size: 20px;
