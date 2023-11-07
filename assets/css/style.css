@@ -18,7 +18,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: linear-gradient(to bottom, #4834d4 0%, #130f40 100%);
+    background: linear-gradient(to bottom, #ccd5ae 0%, #d4a373 100%);
 }
 .container{
     max-width: 400px;
@@ -35,7 +35,7 @@ body{
     font-weight: bold;
     font-family: 'Indie Flower', cursive;
     text-align: center;
-    color: #dff9fb;
+    color: #1d3557;
     text-transform: uppercase;
 }
 .container .input-field{
@@ -51,9 +51,9 @@ body{
 .input-field input{
     width: 90%;
     height: 100%;
-    border: 1px solid #dff9fb;
+    border: 1px solid #d4a373;
     font-size: 17px;
-    color: #dff9fb;
+    color: #1d3557;
     border-radius: 2px;
     padding-left: 15px;
     outline: none;
@@ -62,9 +62,9 @@ body{
 .input-field button{
     width: 60px;
     height: 100%;
-    border: 1px solid #dff9fb;
+    border: 1px solid #d4a373;
     outline: none;
-    background: #4834d4;
+    background: #d4a373;
     color: #dff9fb;
     font-size: 40px;
     cursor: pointer;
@@ -93,9 +93,9 @@ body{
     height: 45px;
     line-height: 45px;
     position: relative;
-    background: #4834d4;
+    background: #d4a373;
     border-radius: 3px;
-    color: #f0feff;
+    color: #1d3557;
     font-size: 17px;
     margin-bottom: 8px;
     padding: 0 15px;
@@ -128,10 +128,10 @@ body{
     margin-top: 25px;
 }
 .footer button{
-    border: 1px solid #dff9fb;
+    border: 1px solid #d4a373;
     outline: none;
-    background: #4834d4;
-    color: #dff9fb;
+    background: #d4a373;
+    color: #1d3557;
     font-size: 18px;
     cursor: pointer;
     border-radius: 2px;
@@ -144,7 +144,7 @@ body{
     pointer-events: auto;
 }
 .footer span{
-    color: #dff9fb;
+    color: #1d3557;
     font-size: 20px;
 }
 <<<<<<< HEAD
