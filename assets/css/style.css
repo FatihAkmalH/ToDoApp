@@ -78,7 +78,7 @@ body{
     pointer-events: auto;
 }
 .input-field button.active:hover{
-    background: #130f40;
+    background: #bf7c3a;
 }
 .container .list{
     max-height: 250px;
