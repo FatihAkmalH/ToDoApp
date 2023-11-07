@@ -45,13 +45,13 @@ body{
     margin: 20px 0;
 }
 ::placeholder{
-    color: #fff;
+    color: #1d3557;
     opacity: 70%;
 }
 .input-field input{
     width: 90%;
     height: 100%;
-    border: 1px solid #d4a373;
+    border: 1px solid #b56312;
     font-size: 17px;
     color: #1d3557;
     border-radius: 2px;
@@ -62,10 +62,10 @@ body{
 .input-field button{
     width: 60px;
     height: 100%;
-    border: 1px solid #d4a373;
+    border: 1px solid #b56312;
     outline: none;
     background: #d4a373;
-    color: #dff9fb;
+    color: #1d3557;
     font-size: 40px;
     cursor: pointer;
     border-radius: 2px;
@@ -94,6 +94,7 @@ body{
     line-height: 45px;
     position: relative;
     background: #d4a373;
+    border: 1px solid #b56312;
     border-radius: 3px;
     color: #1d3557;
     font-size: 17px;
@@ -128,7 +129,7 @@ body{
     margin-top: 25px;
 }
 .footer button{
-    border: 1px solid #d4a373;
+    border: 1px solid #b56312;
     outline: none;
     background: #d4a373;
     color: #1d3557;
